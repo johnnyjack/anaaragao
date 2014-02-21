@@ -30,3 +30,15 @@ html {
 		background-size:70px 70px;
 	}
 }
+
+.text-justify {
+	text-align: justify;
+}
+
+p.text-space-med {
+	line-height: 1.5;
+}
+
+p.text-space-big {
+	line-height: 3;
+}
